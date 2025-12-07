@@ -7,13 +7,13 @@ This contains a simple working fullstack App:
 ## Run locally
 
 ### Backend
-cd backend
-npm install
-npm run dev
-Server: http://localhost:4000
+- cd backend
+- npm install
+- npm run dev
+- Server: http://localhost:3000
 
 ### Frontend
-## cd frontend
-## npm install
-## npm run dev
-## Open: http://localhost:5173
+- cd frontend
+- npm install
+- npm run dev
+- Open: http://localhost:5173
