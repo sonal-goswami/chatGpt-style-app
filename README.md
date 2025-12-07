@@ -13,7 +13,7 @@ npm run dev
 Server: http://localhost:4000
 
 ### Frontend
-cd frontend
-npm install
-npm run dev
-Open: http://localhost:5173
+## cd frontend
+## npm install
+## npm run dev
+## Open: http://localhost:5173
