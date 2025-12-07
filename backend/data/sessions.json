@@ -1,0 +1,43 @@
+[
+  {
+    "id": "cd7012f5-e4de-47f3-914f-47fcfcca9766",
+    "title": "Chat 1765125463383",
+    "history": []
+  },
+  {
+    "id": "0d8cbfc9-7017-4c51-96e5-73a9ec2db289",
+    "title": "Chat 1765125365550",
+    "history": [
+      {
+        "id": "4ce6942d-e4e3-4ef3-a76d-37432215808e",
+        "question": "dsd",
+        "response": {
+          "table": [
+            {
+              "name": "Divya",
+              "age": 30,
+              "role": "Engineer"
+            },
+            {
+              "name": "Ravi",
+              "age": 32,
+              "role": "Designer"
+            },
+            {
+              "name": "Prayag",
+              "age": 27,
+              "role": "AI/ML Developer"
+            },
+            {
+              "name": "Sonal",
+              "age": 31,
+              "role": "Software Engineer"
+            }
+          ],
+          "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+        },
+        "createdAt": "2025-12-07T16:47:44.389Z"
+      }
+    ]
+  }
+]
